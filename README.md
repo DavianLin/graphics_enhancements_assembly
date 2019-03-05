@@ -1,4 +1,4 @@
-Graphics Enhancements Assembly V7M2.0.2: New Age (KSP 1.6.1)
+Graphics Enhancements Assembly V7M2.0.1.01: New Age (KSP 1.6.1)
 AUTHORS: Davian Lin, Dimon, SepterFlash
 
 ======================================================
@@ -26,9 +26,8 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/103277-105-kopernicus-beta-
 
 "Real Plume" by Nhawks17 (CC-BY-NC-SA 4.0)
 http://forum.kerbalspaceprogram.com/index.php?/topic/..
-=======================================================
 
-=======================================================
+
 PART IN THE ASSEMBLY MODS:
 "BoulderCo"
 "Environmental Visual Enhancements"
@@ -41,15 +40,13 @@ PART IN THE ASSEMBLY MODS:
 "Distant Object"
 "RealPlume"
 "Smoke Screen"
-=======================================================
 
-=======================================================
+
 Description:
 What is GEA?
 The Graphics Enhancements Assembly includes a lot of textures and settings, allowing you to making your graphics in KSP even better and more colorful.
-=======================================================
 
-=======================================================
+
 SPECIAL THANKS TO:
 Blackrack for Scatterer.
 Nhawks17 for realistic Real Plume.
@@ -60,10 +57,8 @@ Thomas P. and NathanKell for Kopernicus.
 MOARdV for Distant Object.
 CaptRobau for CTTP.
 Sarbian for Smoke Screen.
-=======================================================
 
-=======================================================
+
 LICENCE
 THIS MOD IS LICENSED BY CC-BY-NC-SA-4.0.
 You can edit, to correct and to take the product as a basis for derivatives for non-commercial purposes provided that you indicate my authorship and license their new creations under the same conditions.
-=======================================================

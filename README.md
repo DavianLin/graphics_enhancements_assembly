@@ -1,4 +1,5 @@
 Graphics Enhancements Assembly: Lite (KSP 1.6.x and 1.7.x)
+
 AUTHOR: Davian Lin
 
 
